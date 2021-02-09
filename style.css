@@ -1,0 +1,88 @@
+h1{
+	font-family:cursive, "Times New Roman";
+	font-size: 40px;
+	font-style: italic;
+	font-weight: 100;
+	text-align: center;
+	color: #ff9292;
+}
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+}
+h3{
+		
+		color: #af0069
+	}
+	
+	.paragragh{
+		font-family: 'Berkshire Swash', cursive;}
+
+a{
+text-decoration: none;	
+}
+
+hr {
+  border-top: 10px dashed #ad6c80;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+ol{
+	list-style-type: upper-roman;
+}
+
+#a{
+	list-style-type: disc;
+	color:#a9294f;
+}
+	
+.b{
+	list-style-type: square;
+}
+.title{
+	
+	
+  position: relative;
+  left: -5px;
+
+}
+.c{
+	color:#790c5a
+	
+}
+
+.e{position: relative;
+  left: -5px;
+  height: 40px;
+  width: 20%;
+  background-color:#ffe05d ;
+  }
+
+.mypara{
+	font-family: 'Elsie Swash Caps', cursive;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+aside{
+	 width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
